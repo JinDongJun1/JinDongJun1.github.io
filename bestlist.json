@@ -1,0 +1,41 @@
+{
+    "list" : [
+        {
+            "no" : 1,
+            "title" : "[레진물감케이스] 강물 위 구름 한 스푼 (white)",
+            "price" : 24000,
+            "delivery" : 0,
+            "imgSrc" : "https://image.idus.com/image/files/464436f5150a42b78c6ffc3ec2c26ca8_1440.jpg"
+        },{
+            "no" : 2,
+            "title" : "감성 턴테이블 폰케이스 LP판 갤럭시S24 플립폴드",
+            "price" : 15900,
+            "delivery" : 0,
+            "imgSrc" : "https://image.idus.com/image/files/336d3188cded4f9caf9752152267b381_1440.jpg"
+        },{
+            "no": 3,
+            "title": "노트북파우치 노트북가방 11 13 15인치",
+            "price" :17800 ,
+            "delivery" : 2500,
+            "imgSrc":"https://image.idus.com/image/files/2669c48332ce40868ba0034d0b5f633a_1440.jpg"
+        },{
+            "no" : 4,
+            "title": "[선물포장] 양면 포토 이니셜 보조배터리10000mAh" ,
+            "price": 38000,
+            "delivery": 0,
+            "imgSrc" : "https://image.idus.com/image/files/4da668eeb677455496b925f5bea731cb_1440.png"
+        },{
+            "no": 5,
+            "title": "[선물포장] 오목눈이 뱁새 인형 뜨개키링",
+            "price": 16200,
+            "delivery": 0,
+            "imgSrc": "https://image.idus.com/image/files/dd57353cba0f4d978394c62de6d7fe26_1440.jpg"
+        },{
+            "no": 6,
+            "title": "[선물포장] 행운 카푸치노 솜인형 키링",
+            "price": 17800,
+            "delivery": 0,
+            "imgSrc": "https://image.idus.com/image/files/84230b3e1db44cbaa266069719145b30_1440.jpg"
+        }
+    ]
+}
